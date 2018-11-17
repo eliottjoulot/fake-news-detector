@@ -1,6 +1,6 @@
 # Fake news challenge
 
-[Kaggle](https://www.kaggle.com/c/fake-news){: .btn .btn--info}
+[Kaggle](https://www.kaggle.com/c/fake-news)
 
 In this task, we will have to build a ML model that gives a confidence score between 1 and 0 to an article (is this article reliable or not). The requirements are:
 
